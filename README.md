@@ -21,8 +21,8 @@ You will need:
  - CMake 3.22.0. You can get this from the Kitware repository for Ubuntu distros.
 
 You should have:
+ - aethersx2: Folder containing source code.
  - app-release-unsigned.apk: Unsigned APK containing compiled Java code without native library.
- - aethersx2 folder: Folder containing source code.
 
 We have verified that the library can be re-linked/reproduced on the above system configuration. If you use a different configuration,
 it is not guaranteed to be functional.
