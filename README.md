@@ -1,5 +1,5 @@
 # AetherSX2
-Latest LGPL code of AetherSX2 provided by Talhreth @ https://www.aethersx2.com/lgpl/aethersx2-lgpl.tar.gz
+Latest LGPL code of AetherSX2 provided by Tahlreth @ https://www.aethersx2.com/lgpl/aethersx2-lgpl.tar.gz
 
 # AetherSX2 Build Instructions
 
